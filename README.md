@@ -4,6 +4,7 @@ This is a Minor Project Assignment from AccioJob. The project contains 9x9 butto
 Find Java File "src/sudou_solver/MainFrame.java"
 
 Brief Introduction About the Project
+
   -The project is a game that allows the user to solve Sudoku puzzles.
   -The aim of the project is to recreate the experience of solving Sudoku puzzles that people used to do in newspapers.
   -The session will discuss the features of the game and have a live demo.
