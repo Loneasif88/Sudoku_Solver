@@ -5,7 +5,7 @@ Find Java File "src/sudou_solver/MainFrame.java"
 
 Brief Introduction About the Project
 
-  -The project is a game that allows the user to solve Sudoku puzzles.
+  -The project is a game that allows the user to solve Sudoku puzzles. \n
   -The aim of the project is to recreate the experience of solving Sudoku puzzles that people used to do in newspapers.
   -The session will discuss the features of the game and have a live demo.
   -In upcoming sessions, the project will be built together.
