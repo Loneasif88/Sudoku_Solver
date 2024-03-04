@@ -19,6 +19,8 @@ Sudoku Solver is a Java-based application developed as a Minor Project Assignmen
 - The grid layout is achieved by arranging panels, each representing a 3x3 subgrid, within the JFrame.
 - Buttons within each panel represent individual cells of the Sudoku grid, allowing users to input digits.
 
+  ![UI Design](Sudok_solver.png)
+
 ## Writing Down the Logic
 - The logic of the Sudoku Solver is implemented using Java, with an emphasis on maintaining the rules and constraints of Sudoku puzzles.
 - A 2D array is utilized to store the Sudoku grid, with empty cells represented by blank values.
